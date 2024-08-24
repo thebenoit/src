@@ -1,0 +1,67 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "quantite": 250,
+      "prix": 19.99,
+      "Nom": "Berserk Volume 1",
+      "Description": "Un chevalier noir, Guts, marqué par son passé tragique et hanté par les créatures qu'il a engendrées, se lance dans une quête de vengeance contre Griffith, l'ancien chef de son groupe de mercenaires, devenu un dieu des ténèbres."
+    },
+    {
+      "id": 2,
+      "quantite": 100,
+      "prix": 12.99,
+      "Nom": "One Piece Volume 100",
+      "Description": "Monkey D. Luffy, un jeune pirate au chapeau de paille, et son équipage, les Straw Hat Pirates, continuent leur aventure à travers le Grand Line en quête du trésor légendaire One Piece."
+    },
+    {
+      "id": 3,
+      "quantite": 150,
+      "prix": 14.99,
+      "Nom": "Demon Slayer: Kimetsu no Yaiba Volume 1",
+      "Description": "Tanjiro Kamado, un jeune homme dont la famille a été massacrée par des démons, se transforme en démon lui-même pour sauver sa petite sœur Nezuko et venger sa famille."
+    },
+    {
+      "id": 4,
+      "quantite": 75,
+      "prix": 16.99,
+      "Nom": "L'Attaque des Titans Volume 1",
+      "Description": "Eren Yeager et ses amis vivent dans un monde où l'humanité est menacée par des Titans, des géants humanoïdes qui dévorent les humains. Eren et ses amis rejoignent l'armée pour se battre contre les Titans et sauver le monde."
+    },
+    {
+      "id": 5,
+      "quantite": 200,
+      "prix": 17.99,
+      "Nom": "My Hero Academia Volume 1",
+      "Description": "Izuku Midoriya, un jeune garçon né sans super-pouvoir dans un monde où la plupart des gens en ont, rêve de devenir un héros. Il rencontre All Might, le plus grand héros du monde, et hérite de son pouvoir, le One For All."
+    },
+    {
+      "id": 6,
+      "quantite": 125,
+      "prix": 18.99,
+      "Nom": "Jujutsu Kaisen Volume 0",
+      "Description": "Yuta Okkotsu, un lycéen hanté par le fantôme de son amie d'enfance, Rika Orimoto, devient un exorciste de jujutsu pour apprendre à la contrôler et à protéger le monde des fléaux."
+    },
+    {
+      "id": 7,
+      "quantite": 50,
+      "prix": 19.99,
+      "Nom": "Haikyu!! Volume 1",
+      "Description": "Hinata Shoyo, un petit garçon passionné de volley-ball, rejoint le club de volley-ball de son lycée et rêve de devenir un joueur professionnel."
+    },
+    {
+      "id": 8,
+      "quantite": 150,
+      "prix": 10.99,
+      "Nom": "Fairy Tail Volume 1",
+      "Description": "Lucy Heartfilia, une jeune mage, rejoint la guilde de Fairy Tail et se lie d'amitié avec Natsu Dragneel, un chasseur de dragons, et Happy, un chat bleu qui parle."
+    },
+    {
+      "id": 9,
+      "quantite": 225,
+      "prix": 11.99,
+      "Nom": "Naruto Volume 1",
+      "Description": "Naruto Uzumaki, un jeune ninja orphelin et rêveur, souhaite devenir Hokage, le chef de son village, et obtenir la reconnaissance de tous."
+    }
+  ]
+}

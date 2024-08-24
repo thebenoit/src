@@ -1,0 +1,130 @@
+{
+  "Achats": [
+    {
+      "id": "21u90",
+      "client": {
+        "id": 1,
+        "Nom": "Kemmy Will Benoit",
+        "Email": "kemmywillbenoit@yahoo.com"
+      },
+      "Article": {
+        "id": 2,
+        "quantite": 100,
+        "prix": 12.99,
+        "Nom": "One Piece Volume 100"
+      }
+    },
+    {
+      "id": "21u91",
+      "client": {
+        "id": 2,
+        "Nom": "Wisly Benoit",
+        "Email": "benWisly@gmail.com"
+      },
+      "Article": {
+        "id": 3,
+        "quantite": 1,
+        "prix": 14.99,
+        "Nom": "Demon Slayer: Kimetsu no Yaiba Volume 1"
+      }
+    },
+    {
+      "id": "21u92",
+      "client": {
+        "id": 3,
+        "Nom": "Rachelle Boucicaut",
+        "Email": "rachelleBoucicaut@example.com"
+      },
+      "Article": {
+        "id": 4,
+        "quantite": 2,
+        "prix": 16.99,
+        "Nom": "L'Attaque des Titans Volume 1"
+      }
+    },
+    {
+      "id": "21u93",
+      "client": {
+        "id": 1,
+        "Nom": "Kemmy Will Benoit",
+        "Email": "kemmywillbenoit@yahoo.com"
+      },
+      "Article": {
+        "id": 5,
+        "quantite": 3,
+        "prix": 17.99,
+        "Nom": "My Hero Academia Volume 1"
+      }
+    },
+    {
+      "id": "21u94",
+      "client": {
+        "id": 2,
+        "Nom": "Wisly Benoit",
+        "Email": "benWisly@gmail.com"
+      },
+      "Article": {
+        "id": 6,
+        "quantite": 1,
+        "prix": 18.99,
+        "Nom": "Jujutsu Kaisen Volume 0"
+      }
+    },
+    {
+      "id": "21u95",
+      "client": {
+        "id": 3,
+        "Nom": "Rachelle Boucicaut",
+        "Email": "rachelleBoucicaut@example.com"
+      },
+      "Article": {
+        "id": 7,
+        "quantite": 2,
+        "prix": 19.99,
+        "Nom": "Haikyu!! Volume 1"
+      }
+    },
+    {
+      "id": "21u96",
+      "client": {
+        "id": 1,
+        "Nom": "Kemmy Will Benoit",
+        "Email": "kemmywillbenoit@yahoo.com"
+      },
+      "Article": {
+        "id": 8,
+        "quantite": 4,
+        "prix": 10.99,
+        "Nom": "Fairy Tail Volume 1"
+      }
+    },
+    {
+      "id": "21u97",
+      "client": {
+        "id": 2,
+        "Nom": "Wisly Benoit",
+        "Email": "benWisly@gmail.com"
+      },
+      "Article": {
+        "id": 9,
+        "quantite": 1,
+        "prix": 11.99,
+        "Nom": "Naruto Volume 1"
+      }
+    },
+    {
+      "id": "21u98",
+      "client": {
+        "id": 3,
+        "Nom": "Rachelle Boucicaut",
+        "Email": "rachelleBoucicaut@example.com"
+      },
+      "Article": {
+        "id": 1,
+        "quantite": 2,
+        "prix": 9.99,
+        "Nom": "Naruto Shippuden Volume 1"
+      }
+    }
+  ]
+}

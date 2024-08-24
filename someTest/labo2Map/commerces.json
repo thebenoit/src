@@ -1,0 +1,12 @@
+ [
+    {"id": 10, "coord": {"latitude": 45.5585974, "longitude": -73.8944696}, "nom": "Les 3 Galo Pains"},
+    {"id": 20, "coord": {"latitude": 45.603508197374346, "longitude": -73.78834001744862}, "nom": "C'Tiguou Boulangerie Pâtisserie"},
+    {"id": 30, "coord": {"latitude": 45.61758539673886, "longitude": -73.8156015847305}, "nom": "Boulangerie Le Marquis"},
+    {"id": 40, "coord": {"latitude": 45.56769697492668, "longitude": -73.74387973779393}, "nom": "Boulangerie Première Moisson - Laval"},
+    {"id": 50, "coord": {"latitude": 45.62665325039595, "longitude": -73.80175869112048}, "nom": "Les Délices Lafrenaie Rosemère"},
+    {"id": 60, "coord": {"latitude": 45.551731306295196, "longitude": -73.62664697751977}, "nom": "Boulangerie Jarry"},
+    {"id": 70, "coord": {"latitude": 45.639231312653415, "longitude": -73.83959484735497}, "nom": "Boulangerie A. Marcelino Inc"},
+    {"id": 80, "coord": {"latitude": 45.64444931553577, "longitude": -73.83298588852178}, "nom": "Centrale Bagel"},
+    {"id": 90, "coord": {"latitude": 45.65716625582758, "longitude":-73.80105687771348}, "nom":"Pâtisserie Dolci Più"},
+    {"id": 100, "coord": {"latitude": 45.672059238098115, "longitude":-73.87254086635213}, "nom": "Boulangerie MariePain"}
+  ]

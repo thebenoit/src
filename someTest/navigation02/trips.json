@@ -1,0 +1,52 @@
+[
+  {
+    "cruiseLine": "Norwegian",
+    "croisieres": [
+      {"depart": "Rome", "nbreJours": "7", "destination":"Mer Méditerranée", "surPageAccueil":1},
+      {"depart": "Miami", "nbreJours": "9","destination":"Caraibes", "surPageAccueil":1},
+      {"depart": "Dubai", "nbreJours": "11","destination":"Asie", "surPageAccueil":0},
+      {"depart": "Dubai", "nbreJours": "5","destination":"Moyen Orient", "surPageAccueil":0},
+      {"depart": "Barcelone", "nbreJours": "7","destination":"Afrique Centrale", "surPageAccueil":0},
+      {"depart": "Barcelone", "nbreJours": "13","destination":"Europe du Nord", "surPageAccueil":0}
+    ],
+    "image":"https://i.pinimg.com/564x/6a/d1/d4/6ad1d44adc0d5adee46fbb300044e2df.jpg"
+  },
+  {
+    "cruiseLine": "Carnival Cruise Line",
+    "croisieres": [
+      { "depart":"Seattle, WA", "nbreJours":"15","destination":"Alaska", "surPageAccueil":1},
+      {"depart": "Orlando, FL", "nbreJours":"5","destination":"Bahamas", "surPageAccueil":1},
+      {"depart":"Miami, F", "nbreJours":"7","destination":"Mexique", "surPageAccueil":0},
+      {"depart": "Sydney, Australie","nbreJours": "9","destination":"Nouvelle Zélande", "surPageAccueil":0}
+    ],
+    "image":"https://i.pinimg.com/474x/22/1c/4d/221c4d2bce23e402e58c4100ba399095.jpg"
+  },
+  {
+    "cruiseLine": "Celebrity",
+    "croisieres": [
+      {"depart": "Miami,Fl", "nbreJours": "7","destination":"Caraibes", "surPageAccueil":1},
+      {"depart": "Singapour", "nbreJours": "12","destination":"Asie", "surPageAccueil":0}, 
+      {"depart": "Vancouver, BC", "nbreJours": "7","destination":"Alaska", "surPageAccueil":1},
+      {"depart": "Miami, Fl", "nbreJours": "12","destination":"Mexique", "surPageAccueil":0}
+    ],
+    "image":"https://i.pinimg.com/474x/04/29/ab/0429abca82a5c052e2e382f109c4b27d.jpg"
+  },
+  {
+    "cruiseLine": "Royal Caribbean",
+    "croisieres":[
+      { "depart":"Vancouver,BC", "nbreJours":"7","destination":"Alaska", "surPageAccueil":0},
+      {"depart": "Orlando, FL", "nbreJours":"5","destination":"Bahamas", "surPageAccueil":1},
+      {"depart":"Galveston, Texas,", "nbreJours":"7","destination":"Mexique", "surPageAccueil":1},
+      {"depart": "Sydney, Australie", "nbreJours":"7","destination":"Nouvelle Zélande", "surPageAccueil":0}
+      ],
+      "image":"https://i.pinimg.com/474x/ab/ab/64/abab6454c4d254b0a61111d6c4327614.jpg"
+  },
+  {
+    "cruiseLine": "Holland America Line",
+    "croisieres": [
+      {"depart": "Orlando, FL", "nbreJours":"5","destination":"Bahamas","surPageAccueil":1},
+      {"depart":"Miami, F", "nbreJours":"7","destination":"Mexique","surPageAccueil":1}
+    ],
+    "image":"https://i.pinimg.com/474x/5c/86/25/5c862550d465880c4c5f3be05fa31d0e.jpg"
+  }
+]

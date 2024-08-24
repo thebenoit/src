@@ -1,0 +1,103 @@
+[
+    {
+      "product_id": "TV001",
+      "name": "Ultra HD Smart TV",
+      "brand": "Samsung",
+      "screen_size": "55 inches",
+      "resolution": "4K UHD",
+      "screen_technology": "LED",
+      "price": 499.99,
+      "features": ["Smart TV", "HDR", "Wi-Fi", "Voice Control"]
+    },
+    {
+      "product_id": "TV002",
+      "name": "Bravia OLED TV",
+      "brand": "Sony",
+      "screen_size": "65 inches",
+      "resolution": "4K UHD",
+      "screen_technology": "OLED",
+      "price": 1299.99,
+      "features": ["Smart TV", "HDR", "Wi-Fi", "Voice Control", "Dolby Atmos"]
+    },
+    {
+      "product_id": "TV003",
+      "name": "QLED Smart TV",
+      "brand": "LG",
+      "screen_size": "75 inches",
+      "resolution": "8K UHD",
+      "screen_technology": "QLED",
+      "price": 3499.99,
+      "features": ["Smart TV", "HDR", "Wi-Fi", "Voice Control", "Quantum Dot"]
+    },
+    {
+      "product_id": "TV004",
+      "name": "Crystal UHD TV",
+      "brand": "Samsung",
+      "screen_size": "50 inches",
+      "resolution": "4K UHD",
+      "screen_technology": "LED",
+      "price": 399.99,
+      "features": ["Smart TV", "HDR", "Wi-Fi"]
+    },
+    {
+      "product_id": "TV005",
+      "name": "NanoCell TV",
+      "brand": "LG",
+      "screen_size": "55 inches",
+      "resolution": "4K UHD",
+      "screen_technology": "NanoCell",
+      "price": 799.99,
+      "features": ["Smart TV", "HDR", "Wi-Fi", "Voice Control", "Dolby Vision"]
+    },
+    {
+      "product_id": "TV006",
+      "name": "LED TV",
+      "brand": "TCL",
+      "screen_size": "43 inches",
+      "resolution": "1080p",
+      "screen_technology": "LED",
+      "price": 249.99,
+      "features": ["Smart TV", "Wi-Fi"]
+    },
+    {
+      "product_id": "TV007",
+      "name": "QLED 8K TV",
+      "brand": "Samsung",
+      "screen_size": "65 inches",
+      "resolution": "8K UHD",
+      "screen_technology": "QLED",
+      "price": 2999.99,
+      "features": ["Smart TV", "HDR", "Wi-Fi", "Voice Control", "Quantum Dot"]
+    },
+    {
+      "product_id": "TV008",
+      "name": "OLED TV",
+      "brand": "Panasonic",
+      "screen_size": "55 inches",
+      "resolution": "4K UHD",
+      "screen_technology": "OLED",
+      "price": 1499.99,
+      "features": ["Smart TV", "HDR", "Wi-Fi", "Voice Control", "Dolby Vision"]
+    },
+    {
+      "product_id": "TV009",
+      "name": "4K UHD TV",
+      "brand": "Hisense",
+      "screen_size": "50 inches",
+      "resolution": "4K UHD",
+      "screen_technology": "LED",
+      "price": 379.99,
+      "features": ["Smart TV", "HDR", "Wi-Fi"]
+    },
+    {
+      "product_id": "TV010",
+      "name": "Android TV",
+      "brand": "Sony",
+      "screen_size": "75 inches",
+      "resolution": "4K UHD",
+      "screen_technology": "LED",
+      "price": 999.99,
+      "features": ["Smart TV", "HDR", "Wi-Fi", "Voice Control", "Google Assistant"]
+    }
+  ]
+  
